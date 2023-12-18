@@ -1,0 +1,64 @@
+body {
+    font-family: 'DM Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+    padding: 20px;
+    background-color: black;
+    background-image: url(https://5.imimg.com/data5/JK/NW/MY-1440275/black-paper-250x250.jpg);
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+header {
+    background-color: #343434;
+    color: #ffffff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+section {
+    padding: 60px 0;
+    text-align: center;
+}
+
+
+
+h5,h6{
+    text-align: center;
+}
+
+.container{
+    color: rgb(255, 255, 255);
+    
+    
+}
+
+.row{
+    color: #ffffff;
+    background-color: #343434;
+}
+
+.col{
+    color: #ffffff;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(76, 76, 76);
+}
+
+img{
+    max-width: 80%;
+    height: auto;
+    align-items: center;
+}
+
+.about{
+    text-align: center;  
+}
+
+p{
+    text-align: center;
+}
+
